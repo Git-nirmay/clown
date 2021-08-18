@@ -1,0 +1,26 @@
+h1{
+ font-size: 25px !important;   
+}
+
+.btn-dark:hover{
+    background-color: turquoise;
+}
+
+canvas
+{
+    animation-name:Nirmay;
+    animation-duration: 9s;
+    animation-iteration-count: infinite;
+}
+@keyframes Nirmay{
+    from {box-shadow:10px 21px 40px goldenrod ;}
+    to {box-shadow:10px 21px 40px greenyellow ;}
+}
+
+body
+{
+background-position:center;
+background-repeat:no-repeat;
+background:800px;
+
+}
